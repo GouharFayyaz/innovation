@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/innovation/static/css/main.d1e5dd7a.css",
-    "main.js": "/innovation/static/js/main.40f9af77.js",
+    "main.js": "/innovation/static/js/main.23f2024c.js",
     "static/media/img.png": "/innovation/static/media/img.49a8523ffb1a330d69fa.png",
     "static/media/Massimo Fabi_ direttore commerciale.png": "/innovation/static/media/Massimo Fabi_ direttore commerciale.e33981379a6c0f856534.png",
     "static/media/Testoni Cristian.png": "/innovation/static/media/Testoni Cristian.2553cef8b0b0dc7c358c.png",
     "static/media/Gavioli.png": "/innovation/static/media/Gavioli.4a0e19c30aa3ab4d1404.png",
     "index.html": "/innovation/index.html",
     "main.d1e5dd7a.css.map": "/innovation/static/css/main.d1e5dd7a.css.map",
-    "main.40f9af77.js.map": "/innovation/static/js/main.40f9af77.js.map"
+    "main.23f2024c.js.map": "/innovation/static/js/main.23f2024c.js.map"
   },
   "entrypoints": [
     "static/css/main.d1e5dd7a.css",
-    "static/js/main.40f9af77.js"
+    "static/js/main.23f2024c.js"
   ]
 }
