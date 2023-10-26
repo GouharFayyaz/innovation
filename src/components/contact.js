@@ -26,8 +26,8 @@ function Contact() {
                             </div>   
                             <div className="d-flex flex-column justify-content-around" style={{"fontWeight":"bold"}}>
                                 <h1 style={{"fontSize":"17px"}}>Leo dui fermentum tristique urna <br/> tellus eget amet aliquam. Id <br/>vitae orci </h1>
-                                <h1 style={{"fontSize":"17px"}}>faizaliabdulhameed</h1>
-                                <h1 style={{"fontSize":"17px"}}>0307 0451883</h1>
+                                <h1 style={{"fontSize":"17px"}}>Gouhar Fayyaz</h1>
+                                <h1 style={{"fontSize":"17px"}}>03219802018/h1>
                             </div>
                         </div>
                         <div  style={{"height":"1px" ,"width":"100%"}}></div>
